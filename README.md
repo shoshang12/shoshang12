@@ -1,5 +1,5 @@
 # Hey there!! 😸 Welcome to my IT study project 
-<img src="https://pin.it/qQoBptYJS" width="500"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2gxY2FpZzhlb24wcnN6aWhseDE0YjVyZ25vbDU5Y29hNzczaG5iYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1yciy6Uh88whfUCyT/giphy.gif" width="500"/>
 <h3>✅ The Purposes of This Project</h3>
 
 <ul>
