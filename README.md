@@ -1,5 +1,5 @@
 # Hey there!! 😸 Welcome to my IT study project 
-
+<img src="images\Little Black Cat Cat GIF - Little Black Cat Cat Black Cat - Discover & Share GIFs.gif" width="500"/>
 <h3>✅ The Purposes of This Project</h3>
 
 <ul>
